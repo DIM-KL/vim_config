@@ -1,0 +1,12 @@
+
+set nocompatible              " be iMproved, required
+filetype off                  " required
+
+set encoding=utf-8
+set termencoding=utf-8
+
+syntax on
+set number
+colorscheme desert 
+
+
